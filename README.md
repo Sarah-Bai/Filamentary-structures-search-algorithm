@@ -3,7 +3,7 @@
 
 ## Description
 
-This project facilitates the search and extraction of maps that contain a single filamentary structure. The algorithm is based on Rolling Hough Transform, which is a filamentary structures detection software. The algorithm then detects the largest filament on the given map and returns a FITS file with the map of angles and the map of original data.
+This project facilitates the search and extraction of maps that contain a single filamentary structure. The algorithm is based on Rolling Hough Transform [[1]](#1), which is a filamentary structures detection software, based on Hough transform [[2]](#2). The algorithm then detects the largest filament on the given map and returns a FITS file with the map of angles and the map of original data.
 
 The algorithm was tested on the data, obtained from Planck Telescope at 353 GHz. The code was writted in Jupyter Notebook, a python-based IDE.
 
@@ -49,3 +49,16 @@ main(center_longitude, center_latitude, width, length, smr, wlen, folder, data)
 ```
 
 Please see the .ipynb file for a detailed example.
+
+
+# References
+
+<a id="1">[1]</a> 
+S E Clark, J E G Peek, M E Putman. (2014). 
+Magnetically Aligned HI Fibers and the Rolling Hough Transform 
+M.E. 2014, ApJ, 789, 82
+
+
+<b id="2">[2]</b> 
+Hough, P. V. C. (1962).
+Method and Means for Recognizing Complex Patterns
