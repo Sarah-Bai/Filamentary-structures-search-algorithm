@@ -22,12 +22,12 @@ For the maps around 250x250 pixels I advice to use **length 7 and width 27**.
 
 ### Schematic representation of the algorithm
 
-![Scheme](https://github.com/Sarah-Bai/pattern-detection-algorithm/blob/main/final%20scheme.png)
+![Scheme](https://github.com/Sarah-Bai/Filamentary-structures-search-algorithm/blob/main/final%20scheme.png)
 
 ### Distribution of the *good filaments* on the whole sky map (length 7 and width 27)
 
 
-![Map](https://github.com/Sarah-Bai/pattern-detection-algorithm/blob/main/all.png)
+![Map](https://github.com/Sarah-Bai/Filamentary-structures-search-algorithm/blob/main/all.png)
 
 ---
 
