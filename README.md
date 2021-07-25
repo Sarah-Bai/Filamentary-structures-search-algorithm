@@ -10,7 +10,7 @@ The algorithm was tested on the data, obtained from Planck Telescope at 353 GHz.
 I ran the algorithm over the whole sky map above -60 and below 60 degrees. The algorithm was tested twice with different parameters and then visually analysed the output. Result:
 
 |                     | length 7 width 27 | length 12 width 15 |
-| :---                |     :---:          |          ---:       |
+| :---:                |     :---:          |          :---:       |
 | false detection     | 3352               | 3098                |
 | ambiguous detection | 734                | 286                 |
 | good detection      | 250                | 113                 |
@@ -22,7 +22,12 @@ For the maps around 250x250 pixels I advice to use **length 7 and width 27**.
 
 ### Schematic representation of the algorithm
 
+![Scheme](https://github.com/Sarah-Bai/pattern-detection-algorithm/blob/main/final%20scheme.png)
+
 ### Distribution of the *good filaments* on the whole sky map (length 7 and width 27)
+
+
+![Map](https://github.com/Sarah-Bai/pattern-detection-algorithm/blob/main/all.png)
 
 ---
 
