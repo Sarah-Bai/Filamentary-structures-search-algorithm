@@ -48,7 +48,7 @@ data = 'HFI_SkyMap_353-psb_2048_R3.01_full_CIBsub_Nested_res7_I.fits'
 main(center_longitude, center_latitude, width, length, smr, wlen, folder, data)
 ```
 
-Please see the .ipynb file for a detailed example.
+Please see the .ipynb file for a detailed example. Tables with coordinates of both good and abmbiguous detected filaments are added to the repository.
 This work was performed in the frame of an undergraduate student research project at Nazarbayev University.
 
 
