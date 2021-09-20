@@ -22,7 +22,7 @@ For the Planck data I advice to use **length 7 and width 27** with sizes around 
 
 ### Schematic representation of the algorithm
 
-![Scheme](https://github.com/Sarah-Bai/Filamentary-structures-search-algorithm/blob/main/final%20scheme.png)
+![Scheme](https://github.com/Sarah-Bai/Filamentary-structures-search-algorithm/blob/main/scheme.png)
 
 ### Distribution of the *good filaments* on the whole sky map (length 7 and width 27)
 
