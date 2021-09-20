@@ -1,4 +1,4 @@
-Coordinates of SECOND best detected filamentary structures. Maps are square (for example sizes are 6.0844 by 6.0844)
+Coordinates of ambiguous detected filamentary structures. Maps are square (for example sizes are 6.0844 by 6.0844)
 
 lon(deg)   lat(deg)  size(deg)
 ---------  --------  ------
